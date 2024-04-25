@@ -1,19 +1,19 @@
 # kiratech-assignment
 
 ## Project setup
+
+Download and unzip the file
+
+In your terminal, cd to the directory of the project file
+
+Run the command below in your terminal
 ```
 npm install
 ```
 
-### Compiles and hot-reloads for development
+then run
 ```
 npm run serve
 ```
 
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+You should be able to access the page from the link provided in the terminal
